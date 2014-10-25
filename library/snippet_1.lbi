@@ -1,0 +1,7 @@
+<!-- This is a blank HTML snippet -->
+<div class="snippet  PTT_LibraryItem__snippet_1">
+	<p>This is a snippet... It's snippet 1.</p>
+</div>
+<div>
+	<p>Bob was here in this second DIV of snippet 1. This should be in the final page.</p>
+</div>

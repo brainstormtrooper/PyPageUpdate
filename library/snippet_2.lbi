@@ -1,0 +1,7 @@
+<!-- This is a blank HTML snippet -->
+<div class="snippet PTT_LibraryItem__snippet_2">
+	<p>This is a snippet...it's snippet 2 for page testing...</p>
+	<p>It has an editable area in it.</p>
+	<p>The snippet has changed. -- 21/10</p>
+	<p class="PTT_Editable" id="LbiContents_0">This part is editable and should say something else on the page. If this is in the page then it didn't work.</p>
+</div>

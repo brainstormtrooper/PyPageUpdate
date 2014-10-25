@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8" />
+<title class="PTT_Editable__Title" id="EditableTitle">My Template Title</title>
+
+
+
+</head>
+<body>
+<div><p>This is Template text...It should change with the template...</p>
+<h1>Template 1 oct24</h1>
+</div>
+<div id="contentarea" class="PTT_Editable__Contents"><p>Sample Page Content. I don't get why this isn't working :-(</p> </div>
+<div class="PTT_LibraryItem__snippet_2">in page snippet goes here (snippet_2). This text should disappear.</div>
+<b>It Works!</b>
+<div class="PTT_LibraryItem__snippet_1">template snippet goes here (snippet_1). This text should disappear.</div>
+</body>
+</html>
